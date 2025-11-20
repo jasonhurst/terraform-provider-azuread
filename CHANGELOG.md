@@ -1,6 +1,10 @@
-## [Unreleased]
+## 3.7.1 (Unreleased)
 
-### Fixed
+FEATURES:
+
+EHANCEMENTS:
+
+BUG FIXES:
 
 * `azuread_application` - Add polling to azuread_application_registration create
 
