@@ -1,4 +1,4 @@
-## 3.7.1 (Unrleased)
+## 3.7.1 (Unreleased)
 
 FEATURES:
 
