@@ -3,7 +3,7 @@
 set -e
 
 # Configuration
-VERSION="3.7.4"
+VERSION="3.7.5"
 PROVIDER_NAME="azuread"
 BINARY_PREFIX="terraform-provider-azuread"
 DIST_DIR="dist"
